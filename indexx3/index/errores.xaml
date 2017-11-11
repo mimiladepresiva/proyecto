@@ -1,0 +1,22 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	x:Class="errores"
+	x:Name="Window"
+	Title="errores"
+	Width="400" Height="427.772" ResizeMode="NoResize">
+
+    <Grid x:Name="LayoutRoot" Background="#FF171717">
+        <Label Content="Numero de errores encontrados:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Foreground="#FFE2E2E2" FontSize="16"/>
+        <Label Content="Linea" HorizontalAlignment="Left" Margin="22,42,0,0" VerticalAlignment="Top" Foreground="#FFE2E2E2"/>
+        <Label Content="Error" HorizontalAlignment="Left" Margin="140,42,0,0" VerticalAlignment="Top" Foreground="#FFE2E2E2"/>
+        <Label x:Name="label_no_errores" Content="_" HorizontalAlignment="Left" Margin="255.053,10,0,0" VerticalAlignment="Top" Foreground="#FFE2E2E2" FontSize="16"/>
+        <RichTextBox x:Name="richtextbox_lineas" HorizontalAlignment="Left" Height="280" Margin="10,68,0,0" VerticalAlignment="Top" Width="100" Focusable="False">
+            <FlowDocument/>
+        </RichTextBox>
+        <RichTextBox x:Name="richtextbox_lineas_Copy" HorizontalAlignment="Left" Height="280" Margin="128,68,0,0" VerticalAlignment="Top" Width="254" Focusable="False">
+            <FlowDocument/>
+        </RichTextBox>
+        <Button x:Name="button_errores_aceptar" Content="Aceptar" HorizontalAlignment="Left" Margin="140,368,0,0" VerticalAlignment="Top" Width="75"/>
+    </Grid>
+</Window>

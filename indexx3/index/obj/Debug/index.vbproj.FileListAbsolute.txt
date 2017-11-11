@@ -1,0 +1,132 @@
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\bin\Debug\index.exe.config
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\bin\Debug\index.exe
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\bin\Debug\index.pdb
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\bin\Debug\index.xml
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\obj\Debug\MainWindow.baml
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\obj\Debug\MainWindow.g.vb
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\obj\Debug\Application.g.vb
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\obj\Debug\index_MarkupCompile.cache
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\obj\Debug\index.g.resources
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\obj\Debug\index.Resources.resources
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\obj\Debug\index.vbproj.GenerateResource.Cache
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\obj\Debug\index.exe
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\obj\Debug\index.xml
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\obj\Debug\index.pdb
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\obj\Debug\Simple Styles.baml
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\obj\Debug\Application.baml
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\obj\Debug\configuraciones_iniciales.baml
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\obj\Debug\configuraciones_iniciales.g.vb
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\obj\Debug\errores.baml
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\obj\Debug\errores.g.vb
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\obj\Debug\comprobacion.baml
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\obj\Debug\comprobacion.g.vb
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\Omar Silva\Desktop\GusaProyect\index\index\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\index\index\bin\Debug\index.exe.config
+C:\Users\andim\OneDrive\gusa\index\index\obj\Debug\index.exe
+C:\Users\andim\OneDrive\gusa\index\index\obj\Debug\index.xml
+C:\Users\andim\OneDrive\gusa\index\index\obj\Debug\index.pdb
+C:\Users\andim\OneDrive\gusa\index\index\obj\Debug\comprobacion.baml
+C:\Users\andim\OneDrive\gusa\index\index\obj\Debug\configuraciones_iniciales.baml
+C:\Users\andim\OneDrive\gusa\index\index\obj\Debug\errores.baml
+C:\Users\andim\OneDrive\gusa\index\index\obj\Debug\MainWindow.baml
+C:\Users\andim\OneDrive\gusa\index\index\obj\Debug\Simple Styles.baml
+C:\Users\andim\OneDrive\gusa\index\index\obj\Debug\Application.baml
+C:\Users\andim\OneDrive\gusa\index\index\obj\Debug\comprobacion.g.vb
+C:\Users\andim\OneDrive\gusa\index\index\obj\Debug\configuraciones_iniciales.g.vb
+C:\Users\andim\OneDrive\gusa\index\index\obj\Debug\errores.g.vb
+C:\Users\andim\OneDrive\gusa\index\index\obj\Debug\MainWindow.g.vb
+C:\Users\andim\OneDrive\gusa\index\index\obj\Debug\Application.g.vb
+C:\Users\andim\OneDrive\gusa\index\index\obj\Debug\index_MarkupCompile.cache
+C:\Users\andim\OneDrive\gusa\index\index\obj\Debug\index.g.resources
+C:\Users\andim\OneDrive\gusa\index\index\obj\Debug\index.Resources.resources
+C:\Users\andim\OneDrive\gusa\index\index\obj\Debug\index.vbproj.GenerateResource.Cache
+C:\Users\andim\OneDrive\gusa\index\index\bin\Debug\index.exe
+C:\Users\andim\OneDrive\gusa\index\index\bin\Debug\index.pdb
+C:\Users\andim\OneDrive\gusa\index\index\bin\Debug\index.xml
+C:\Users\andim\OneDrive\gusa\index\index\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\andim\OneDrive\gusa\index\index\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\index\index\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\index\index\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\index\index\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\index\index\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\index\index\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\index\index\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\index\index\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\index\index\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\indexx2\index\bin\Debug\index.exe.config
+C:\Users\andim\OneDrive\gusa\indexx2\index\obj\Debug\index.exe
+C:\Users\andim\OneDrive\gusa\indexx2\index\obj\Debug\index.xml
+C:\Users\andim\OneDrive\gusa\indexx2\index\obj\Debug\index.pdb
+C:\Users\andim\OneDrive\gusa\indexx2\index\obj\Debug\comprobacion.baml
+C:\Users\andim\OneDrive\gusa\indexx2\index\obj\Debug\configuraciones_iniciales.baml
+C:\Users\andim\OneDrive\gusa\indexx2\index\obj\Debug\errores.baml
+C:\Users\andim\OneDrive\gusa\indexx2\index\obj\Debug\MainWindow.baml
+C:\Users\andim\OneDrive\gusa\indexx2\index\obj\Debug\Simple Styles.baml
+C:\Users\andim\OneDrive\gusa\indexx2\index\obj\Debug\Application.baml
+C:\Users\andim\OneDrive\gusa\indexx2\index\obj\Debug\comprobacion.g.vb
+C:\Users\andim\OneDrive\gusa\indexx2\index\obj\Debug\configuraciones_iniciales.g.vb
+C:\Users\andim\OneDrive\gusa\indexx2\index\obj\Debug\errores.g.vb
+C:\Users\andim\OneDrive\gusa\indexx2\index\obj\Debug\MainWindow.g.vb
+C:\Users\andim\OneDrive\gusa\indexx2\index\obj\Debug\Application.g.vb
+C:\Users\andim\OneDrive\gusa\indexx2\index\obj\Debug\index_MarkupCompile.cache
+C:\Users\andim\OneDrive\gusa\indexx2\index\obj\Debug\index.g.resources
+C:\Users\andim\OneDrive\gusa\indexx2\index\obj\Debug\index.Resources.resources
+C:\Users\andim\OneDrive\gusa\indexx2\index\obj\Debug\index.vbproj.GenerateResource.Cache
+C:\Users\andim\OneDrive\gusa\indexx2\index\bin\Debug\index.exe
+C:\Users\andim\OneDrive\gusa\indexx2\index\bin\Debug\index.pdb
+C:\Users\andim\OneDrive\gusa\indexx2\index\bin\Debug\index.xml
+C:\Users\andim\OneDrive\gusa\indexx2\index\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\andim\OneDrive\gusa\indexx2\index\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\indexx2\index\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\indexx2\index\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\indexx2\index\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\indexx2\index\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\indexx2\index\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\indexx2\index\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\indexx2\index\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\indexx2\index\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\indexx3\index\bin\Debug\index.exe.config
+C:\Users\andim\OneDrive\gusa\indexx3\index\obj\Debug\index.exe
+C:\Users\andim\OneDrive\gusa\indexx3\index\obj\Debug\index.xml
+C:\Users\andim\OneDrive\gusa\indexx3\index\obj\Debug\index.pdb
+C:\Users\andim\OneDrive\gusa\indexx3\index\obj\Debug\comprobacion.baml
+C:\Users\andim\OneDrive\gusa\indexx3\index\obj\Debug\configuraciones_iniciales.baml
+C:\Users\andim\OneDrive\gusa\indexx3\index\obj\Debug\errores.baml
+C:\Users\andim\OneDrive\gusa\indexx3\index\obj\Debug\MainWindow.baml
+C:\Users\andim\OneDrive\gusa\indexx3\index\obj\Debug\Simple Styles.baml
+C:\Users\andim\OneDrive\gusa\indexx3\index\obj\Debug\Application.baml
+C:\Users\andim\OneDrive\gusa\indexx3\index\obj\Debug\comprobacion.g.vb
+C:\Users\andim\OneDrive\gusa\indexx3\index\obj\Debug\configuraciones_iniciales.g.vb
+C:\Users\andim\OneDrive\gusa\indexx3\index\obj\Debug\errores.g.vb
+C:\Users\andim\OneDrive\gusa\indexx3\index\obj\Debug\MainWindow.g.vb
+C:\Users\andim\OneDrive\gusa\indexx3\index\obj\Debug\Application.g.vb
+C:\Users\andim\OneDrive\gusa\indexx3\index\obj\Debug\index_MarkupCompile.cache
+C:\Users\andim\OneDrive\gusa\indexx3\index\obj\Debug\index.g.resources
+C:\Users\andim\OneDrive\gusa\indexx3\index\obj\Debug\index.Resources.resources
+C:\Users\andim\OneDrive\gusa\indexx3\index\obj\Debug\index.vbproj.GenerateResource.Cache
+C:\Users\andim\OneDrive\gusa\indexx3\index\bin\Debug\index.exe
+C:\Users\andim\OneDrive\gusa\indexx3\index\bin\Debug\index.pdb
+C:\Users\andim\OneDrive\gusa\indexx3\index\bin\Debug\index.xml
+C:\Users\andim\OneDrive\gusa\indexx3\index\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\andim\OneDrive\gusa\indexx3\index\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\indexx3\index\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\indexx3\index\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\indexx3\index\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\indexx3\index\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\indexx3\index\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\indexx3\index\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\indexx3\index\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\gusa\indexx3\index\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\andim\OneDrive\proyecto\indexx3\index\bin\Debug\index.exe.config
+C:\Users\andim\OneDrive\proyecto\indexx3\index\obj\Debug\index.exe
+C:\Users\andim\OneDrive\proyecto\indexx3\index\obj\Debug\index.xml
+C:\Users\andim\OneDrive\proyecto\indexx3\index\obj\Debug\index.pdb

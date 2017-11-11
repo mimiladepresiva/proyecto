@@ -1,0 +1,15 @@
+﻿<Window
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	xmlns:ed="http://schemas.microsoft.com/expression/2010/drawing"
+	x:Class="comprobacion"
+	x:Name="Window"
+	Title="comprobacion"
+	Width="267.915" Height="165.424" ResizeMode="NoResize">
+
+	<Grid x:Name="LayoutRoot" Background="#FF2E2C2C">
+		<Label Content="Sin Errores.&#xD;&#xA;Ejecución Perfecta" HorizontalAlignment="Left" Margin="99.585,30.34,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Foreground="#FFDAD5D5"/>
+		<Image Margin="6.78,30.34,178.33,53.524" Source="Palomita_verde.png" Stretch="Fill"/>
+		<Button x:Name="button_no_errores_aceptar" Content="Aceptar" HorizontalAlignment="Left" Margin="135.661,95.447,0,0" VerticalAlignment="Top" Width="75"/>
+	</Grid>
+</Window>

@@ -1,0 +1,15 @@
+<cuadricula>
+<escala/>
+<frontal>
+<altura>
+40
+<altura/>
+<radio>
+15
+<radio/>
+<codigo>
+  G00 
+  ;X12.
+  ;Z-4.
+
+<codigo/>
